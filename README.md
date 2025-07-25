@@ -18,3 +18,12 @@
 - Error Handling
 - HTTPs
 - Different dev and prod bundles
+
+# Babel
+- Open Source
+- Javascript Compiler (Transpiler)
+
+# JSX
+- JavaScript syntax 
+- HTML-like syntax
+- prevents cross-site scripting
